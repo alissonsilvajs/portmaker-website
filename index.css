@@ -15,6 +15,12 @@ h2{
     padding-top: 30px;
     padding-bottom: 0px;
 }
+p{
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
 h5{
     color: white;
     text-align: center;
@@ -36,4 +42,5 @@ form{
 }
 .mdl-textfield__input{
     border-color: white;
+    color: white;
 }
